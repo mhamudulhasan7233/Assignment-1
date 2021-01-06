@@ -2,6 +2,16 @@ body{
     margin: 0;
     font-family:'Poppins', sans-serif;
 }
+.navbar{
+    text-align: center;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 70px;
+    margin:15px ;
+    padding-left:5px;
+}
 h1{
     font-size: 50px;
     font-family: 'Redressed', cursive;
@@ -55,6 +65,9 @@ section{
 }
 .half-quarter-width img{
 width: 100%;
+}
+.middle{
+    margin-top: 100px;
 }
 .project{
     box-shadow: 10px 10px 50px gray;
